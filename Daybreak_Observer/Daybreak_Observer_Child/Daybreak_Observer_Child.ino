@@ -94,7 +94,7 @@ void loop()
       is_alarm = false;
 
       mfrc522.PICC_HaltA();       // カードとの通信を終了
-      mfrc522.PCD_StopCrypto1();  // リーダーの暗号化通信を停止
+      mfrc522.PCD_StopCrypto1();
 
       delay(500);
      }
