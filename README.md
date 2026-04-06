@@ -30,3 +30,7 @@
 本プロジェクトでは，専用のカスタム基板を設計・製作しました．
 - **Design Tool：** KiCad 9.0
 - **Layer:** 2 Layers# GG-01-DaybreakObserver
+
+![S__15065115_0](https://github.com/user-attachments/assets/68b0d835-d50d-48d5-b73e-25875a754587)
+![S__15065116_0](https://github.com/user-attachments/assets/73ba4937-e4e6-4bb1-9d60-c7a466212c40)
+
